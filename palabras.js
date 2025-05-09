@@ -21,7 +21,7 @@ const words = [
   "random",
   "Carne",
   "Martillo",
-  "Lavadora",
+  
   "Sucio",
   "Cangrejo",
   "Lento",
